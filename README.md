@@ -1,4 +1,4 @@
-# `Robofriends` <br> A React JS Project
+# `Robofriends A React JS Project `
 
 <img src="robofriends.png"
      alt="Robofriends"

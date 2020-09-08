@@ -6,7 +6,7 @@
 
 The project is build with react, it fetches random robots from https://robohash.org/ and fetches user through an API from Api placeholder. Robots can be filtered by searching in the searchbox.
 
-## In the project directory, you can run:
+## In the project directory, you can:
 
 ### 1. `Clone this repo`
 
